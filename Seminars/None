@@ -1,0 +1,4 @@
+Requirement already satisfied: pyspark in c:\users\alexk\appdata\local\programs\python\python314\lib\site-packages (4.0.1)
+Requirement already satisfied: py4j==0.10.9.9 in c:\users\alexk\appdata\local\programs\python\python314\lib\site-packages (from pyspark) (0.10.9.9)
+Requirement already satisfied: pyspark in c:\users\alexk\appdata\local\programs\python\python314\lib\site-packages (4.0.1)
+Requirement already satisfied: py4j==0.10.9.9 in c:\users\alexk\appdata\local\programs\python\python314\lib\site-packages (from pyspark) (0.10.9.9)
